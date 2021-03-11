@@ -21,11 +21,9 @@ public class ExamenController extends CommonController<Examen, ExamenService> {
 
 	@PutMapping("/{id}")
 	public ResponseEntity<?> editar(@Valid @RequestBody Examen examen, BindingResult result, @PathVariable Long id){
-		
 		if(result.hasErrors()) {
 			return this.validar(result);
 		}
-		
 		Optional<Examen> o = service.findById(id);
 		
 		if(!o.isPresent()){
