@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formaciondbi.microservicios.app.commons.services{CommonService.java[CommonService" modifiers="513" timestamp="1614090769127"/>
-    <typeInfo handle="=microservicios-curso/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formaciondbi.microservicios.app.cursos.services{CursoService.java[CursoService" modifiers="513" timestamp="1614609888462"/>
-    <typeInfo handle="=microservicios-curso/C:\/Program Files\/Java\/jdk-14.0.2\/lib\/jrt-fs.jar`java.desktop=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/14\/docs\/api\/=/&lt;sun.awt(AWTAccessor$CursorAccessor.class[CursorAccessor" modifiers="1545" timestamp="1598835697562"/>
-    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formaciondbi.microservicios.app.commons.services{CommonServiceImpl.java[CommonServiceImpl" modifiers="1" timestamp="1614091745835"/>
-    <typeInfo handle="=microservicios-examenes/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formaciondbi.microservicios.app.examenes.services{ExamenService.java[ExamenService" modifiers="513" timestamp="1614954618800"/>
-</typeInfoHistroy>

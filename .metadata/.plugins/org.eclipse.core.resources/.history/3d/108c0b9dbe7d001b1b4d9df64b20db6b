@@ -1,7 +1,0 @@
-package com.formaciondbi.microservicios.app.examenes.models.repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface AsignaturaRepository extends CrudRepository<Asignatura, Long> {
-
-}
