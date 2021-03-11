@@ -1,0 +1,5 @@
+package com.formaciondbi.microservicios.app.examenes.models.repository;
+
+public interface AsignaturaRepository {
+
+}
